@@ -1,0 +1,1 @@
+! wget https://github.com/hse-aml/bayesian-methods-for-ml/releases/download/v0.1/CelebA_VAE_small_8.h5
